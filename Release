@@ -1,0 +1,8 @@
+Origin: Click's Private Repository
+Label: ClickRepo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: clicks repo idk - a cydia repo template
